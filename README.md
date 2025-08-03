@@ -34,11 +34,6 @@
 
 ---
 
-
-> Powered by GitHub Readme Activity workflow
-
----
-
 ### 🐍 Snake Animation
 
 ![snake gif](https://raw.githubusercontent.com/zenexgraze/zenexgraze/output/github-snake-dark.svg)

@@ -19,9 +19,9 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,flutter,dart,python,mongodb,firebase,git,html,css,raspberrypi,notion" />
-</p>
+</div>
 
 ---
 

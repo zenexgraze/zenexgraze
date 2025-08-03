@@ -28,8 +28,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavmahanta&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavmahanta&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zenexgraze&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenexgraze&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
@@ -45,12 +45,9 @@
 
 ### 🐍 Snake Animation
 
-![snake gif](https://github.com/bhargavmahanta/bhargavmahanta/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bhargavmahanta/zenexgraze/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📫 Contact Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- 📧 mahanta.bhargav@gmail.com
-- 🌐 Portfolio: [bhargav.dev](https://your-portfolio-link.com)
+
 

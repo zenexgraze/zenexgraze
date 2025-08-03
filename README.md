@@ -19,9 +19,9 @@
 
 ### 🛠️ Languages & Tools
 
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,flutter,dart,python,mongodb,firebase,git,html,css,raspberrypi,notion" />
-</div>
+</p>
 
 ---
 
@@ -44,9 +44,9 @@
 ---
 
 ### 🐍 Snake Animation
-<div align="center">
+
 ![snake gif](https://raw.githubusercontent.com/zenexgraze/zenexgraze/output/github-snake-dark.svg)
-</div>
+
 ---
 
 

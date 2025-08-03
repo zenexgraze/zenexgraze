@@ -45,9 +45,9 @@
 
 ### 🐍 Snake Animation
 
-<div align="center">
-  ![snake gif](https://github.com/zenexgraze/zenexgraze/blob/output/ocean.gif)
-</div>
+### 🐍 Snake Animation
+
+![snake gif](https://raw.githubusercontent.com/zenexgraze/zenexgraze/output/ocean.gif)
 
 ---
 

@@ -20,7 +20,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,flutter,dart,python,mongodb,firebase,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,flutter,dart,python,mongodb,firebase,git,html,CSS,raspberrypi,notion" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🐍 Snake Animation
 
 <div align="center">
-  ![snake gif](https://github.com/zenexgraze/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/zenexgraze/zenexgraze/blob/output/github-snake-dark.svg)
 </div>
 
 ---

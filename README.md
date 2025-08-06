@@ -48,7 +48,7 @@
 
 ### 🐍 Snake Animation
 
-![snake gif](https://raw.githubusercontent.com/zenexgraze/bhargavmahanta/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/bhargavmahanta/bhargavmahanta/output/github-snake-dark.svg)
 
 ---
 

@@ -15,6 +15,12 @@
 - 💬 Ask me about anything tech  
 - ⚡ Fun fact: I love turning complex ideas into interactive visuals!
 
+### 🛠📱 Socials
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linkedIn" />
+</p>
+
 ---
 
 ### 🛠️ Languages & Tools

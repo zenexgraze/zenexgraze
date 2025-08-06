@@ -15,10 +15,23 @@
 - 💬 Ask me about anything tech  
 - ⚡ Fun fact: I love turning complex ideas into interactive visuals!
 
-### 🛠📱 Socials
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedIn" />
+  <a href="www.linkedin.com/in/bhargav-mahanta-44583a243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thebhargavmahanta" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://monkeytype.com/profile/bhargavmahanta" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=monkeytype&logoColor=white" />
+  </a>
 </p>
 
 ---

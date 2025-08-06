@@ -19,20 +19,13 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/bhargav-mahanta-44583a243" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://instagram.com/thebhargavmahanta" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://monkeytype.com/profile/bhargavmahanta" target="_blank">
-    <img src="https://skillicons.dev/icons?i=monkeytype" />
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](www.linkedin.com/in/bhargav-mahanta-44583a243)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/BhargavMahanta_)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/thebhargavmahanta/)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/1142383913713532928)
+<a href="https://monkeytype.com/profile/bhargavmahanta">
+  <img src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" width="55" height="55" style="vertical-align: middle;" />
+</a>
 
 ---
 

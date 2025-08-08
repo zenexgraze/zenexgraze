@@ -9,6 +9,6 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@v2.5.0
+      - uses: Readme-Workflows/recent-activity@v2.4.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
